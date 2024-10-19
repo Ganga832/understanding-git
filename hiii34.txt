@@ -1,0 +1,4 @@
+it is used for uploading the code 
+we are learning Git and GitHub and it is a distributed version system repository 
+first is local then central like google drive then central 
+GitHub contain only 100file so git command is suitable to store large file
