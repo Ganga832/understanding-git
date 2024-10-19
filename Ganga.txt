@@ -1,0 +1,2 @@
+we are learning Git and GitHub and it is a distributed version system repository 
+first is local then central like google drive then central 
